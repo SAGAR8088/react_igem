@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react_igem/static/css/main.e8cf950c.css",
+    "main.js": "/react_igem/static/js/main.44e95b4d.js",
+    "static/js/345.94886594.chunk.js": "/react_igem/static/js/345.94886594.chunk.js",
+    "index.html": "/react_igem/index.html",
+    "static/media/logo.svg": "/react_igem/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.e8cf950c.css.map": "/react_igem/static/css/main.e8cf950c.css.map",
+    "main.44e95b4d.js.map": "/react_igem/static/js/main.44e95b4d.js.map",
+    "345.94886594.chunk.js.map": "/react_igem/static/js/345.94886594.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8cf950c.css",
+    "static/js/main.44e95b4d.js"
+  ]
+}
